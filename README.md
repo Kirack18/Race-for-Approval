@@ -50,7 +50,9 @@ Race for Approval/
 ├── obj.py
 └── README.md
 ```
-
+## Bibliotecas usadas:
+- pygame
+- random
 ---
 
 ## 🚀 Como Jogar
